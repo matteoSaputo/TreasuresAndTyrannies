@@ -1,3 +1,9 @@
+/* 
+ *
+ * Credit: THIS CLASS WAS NOT WRITTEN BY ME, IT WAS TAKEN FROM THE CODEHS.COM LIBRARY
+ *
+ */
+
 import java.util.*;
 
 public class Randomizer{
