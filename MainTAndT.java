@@ -1,3 +1,6 @@
+$ git tag
+v1.0
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
